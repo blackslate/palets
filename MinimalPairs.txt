@@ -1,0 +1,44 @@
+Users can suggest new minimal pairs to record
+
+Multiple recordings with different voices
+Can choose particular accents or all accents
+
+Recording in context of a sentence: different recordings, different sentences, different words.
+
+Play pairs as a pair: 1-2 or 2-1
+
+Choose to repeat or listen to new sound
+
+Index of sounds to compare
+
+Multiple words with same pronunciation
+
+Images and words
+
+Choose phonemes
+  vowels
+  consonants
+
+Choose words from alphabetical list
+  All minimal pairs for a given word
+
+
+
+Statistics
+==========
+As user answers, collect results:
+* Minimal pair
+* How many attempted
+* How many right
+
+Show as saturation and red/green. Aim is to get fully saturated green.
+
+The distinctness of each phoneme depends on how well you can distinguish it from all others with similar sounds. Similarity can be measured by how difficult it is for the general population to distinguish the two phonemes.
+
+
+Layout
+======
+
+
+
+

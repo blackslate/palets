@@ -1,0 +1,139 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+html {
+  height: 100% 
+}
+
+body {
+  background-color: black;
+  font-family: "Open Sans", sans-serif;
+  font-size: 3vh;
+  margin: 0;
+  color: #444;
+  height: 100%; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+article.container {
+  position: relative;
+  display: flex;
+  width: 133.333vh;
+  background-color: white;
+  height: 100vh;
+}
+
+
+section {
+  display: none;
+  height: 100%;
+  width: 100%;
+  /*overflow: hidden;*/
+}
+
+
+section.active {
+  display: flex;
+}
+
+
+section.audio-cue {
+  flex-direction: column;
+  align-items: center;
+}
+
+
+section.audio-cue h1 {
+  text-align: center;
+  margin: 0.5em;
+}
+
+
+section.audio-cue div.cue {
+  height: 20%;
+}
+
+
+section.audio-cue div.cue img {
+  height: 90%;
+  margin: 5%;
+}
+
+
+section.audio-cue div.answer {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+
+
+section.audio-cue div.answer > div {
+  height: 100%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+section.audio-cue div.answer > div img {
+  max-width: 100%;
+}
+
+section.audio-cue div.answer > div p {
+  font-size: 3em;
+  margin: 0;
+}
+
+section.audio-cue div.answer > div button {
+  width: 99%;
+  height: 10%;
+}
+
+
+@media (max-aspect-ratio: 4/3) {
+
+  body {
+    font-size: 2.25vw;  
+  }
+
+  article.container {
+    height: 75vw;
+    width: 100vw;
+  }
+
+}
+
+
+
+@media (max-aspect-ratio: 1/1) {
+
+  body {
+    font-size: 2.25vh;
+  }
+
+  article.container {
+    flex-direction: column;
+    width: 75vh;
+    height: 100vh
+  }
+
+}
+
+
+
+@media (max-aspect-ratio: 3/4) {
+
+  body {
+    font-size: 3vw;
+  }
+
+  article.container {
+    height: 133.3333vw;
+    width: 100vw;
+  }
+
+}

@@ -1,0 +1,74 @@
+Не палец
+========
+
+Reduce any language question to a choice of three options:
+* A
+* B
+* Both A and B
+
+Where the answer can be Both, the meaning is likely to be slightly different, so it will be good to show an image or an animation to indicate the differences.
+
+We can use any key under the right hand home positions, LHHP, and the space bar.
+
+The options can be about:
+* Is this grammatically correct?
+* Is this the most appropriate choice in the circumstances?
+
+For свой | твой
+———————————————
+* (image)
+* Sentence with gap
+* Choice 1 | Choice 2
+* Audio 
+  - with gap
+  - with correct answer (or chose answer if both are right)
+* Click on sentence to hear audio
+* Click on Choice to hear it
+
+Sentence is spoken automatically when the correct word is entered.
+
+For minimal pairs
+—————————————————
+1. Audio cue
+
+   Hear audio, press word
+   * In context of sentence
+   * Word on its own
+
+   Layout:
+   * Word or sentence (press to rehear)
+   * Answer and decoy
+     - Text
+     - Image
+   * Speaker icons for answer and decoy (click to hear Choice)
+
+2. Dictation
+   Hear audio, type word(s)
+
+3. Visual cue
+
+   See word + image
+   Press audio buttons to hear Choices
+   Press submit button
+
+——————————————
+
+IAT type input
+
+* Hear word, press answer
+  - text
+  - image (meaning)
+
+
+The basic input is by the left|right|both-spacebar buttons. Additional feedback possible by touching Repeat icon
+
+Two modes: exploration and speed
+
+In exploration mode, there is no timer...
+
+
+=====================================================================
+
+The purpose of Не палец is to get the player to discover the underlying pattern, implicitly. The player may invent a rule, or may just react intuitively.
+
+The importance is volume: enough diverse examples 
