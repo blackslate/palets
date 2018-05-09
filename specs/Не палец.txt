@@ -72,3 +72,6 @@ In exploration mode, there is no timer...
 The purpose of Не палец is to get the player to discover the underlying pattern, implicitly. The player may invent a rule, or may just react intuitively.
 
 The importance is volume: enough diverse examples 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

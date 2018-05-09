@@ -21,21 +21,47 @@
 
       <section class="audio-cue active">
         <h1>Minimal Pairs</h1>
-        <div class="cue">
-          <img src="img/buttons/audio.svg">
+
+        <div class="head">
+
         </div>
-        <div class="answer">
-          <div class="left">
-            <img src="img/600/sheep.jpg">
-            <p>sheep</p>
-            <button type="button"></button>
-          </div>
-          <div class="right">
-            <img src="img/600/ship.jpg">
-            <p>ship</p>
-            <button type="button"></button>           
-          </div>
-        </div>
+
+        <div class="body">
+          <div class="menu active">
+            <div class="filters">
+              <!--
+              <input type="checkbox" name="Vowels" checked>
+              <input type="checkbox" name="Consonants" checked>
+              -->
+            </div>
+            <div class="values">
+              <!--
+              <input type="checkbox" name="e"  checked>
+              <input type="checkbox" name="i:" checked>
+              <input type="checkbox" name="aɪ" checked>
+              -->
+            </div>
+          </div> <!-- menu -->
+
+          <div class="activity">          
+            <div class="cue">
+              <img src="img/buttons/audio.svg">
+            </div>
+
+            <div class="answer">
+              <div class="left">
+                <img src="img/600/sheep.jpg">
+                <p>sheep</p>
+                <button type="button"></button>
+              </div>
+              <div class="right">
+                <img src="img/600/ship.jpg">
+                <p>ship</p>
+                <button type="button"></button>           
+              </div>
+             </div> <!-- answer -->
+          </div> <!-- activity -->
+        </div> <!-- body -->
 
       </section> 
 
@@ -44,6 +70,13 @@
       </section> 
     </article>
 
-    <script src="js/script.js"></script>
+    <!-- Data for activities: window.palets is initialized -->
+    <script src="js/pairs.js"></script>
+
+    <!-- Scirpts for activities -->
+    <script src="js/audio-cue.js"></script>
+
+    <!--  -->
+    <script src="js/menu.js"></script>
   </body>
 </html>

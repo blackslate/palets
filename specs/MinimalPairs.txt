@@ -39,6 +39,23 @@ The distinctness of each phoneme depends on how well you can distinguish it from
 Layout
 ======
 
+Splash screen
 
+Menu to choose activities
+  * Minimal pairs
+  * Свой / ... Его ...
+  ...
+  * Im- / perfective
+  * Идти / Ходить
+  * Transport / Own two feet
+  ...
+  * Prepositions and cases
 
+  * Statistics
+ 
+Activity sections
+
+Statistics
+  * Time spent on each activity
+  * Accuracy / speed for each activity
 
